@@ -10,4 +10,6 @@
 // stack in C++ STL
 // deque in C++ STL
 // priority_queue in C++ STL
+// multimap in C++ STL
+// list in C++ STL
 

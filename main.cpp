@@ -6,4 +6,6 @@
 // unordered_map in C++ STL
 // map in C++ STL
 // unordered_multimap in C++ STL
+// queue in C++ STL
+// stack in C++ STL
 

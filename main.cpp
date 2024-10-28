@@ -8,4 +8,6 @@
 // unordered_multimap in C++ STL
 // queue in C++ STL
 // stack in C++ STL
+// deque in C++ STL
+// priority_queue in C++ STL
 

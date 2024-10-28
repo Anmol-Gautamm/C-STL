@@ -4,4 +4,6 @@
 // unordered_multiset in C++ STL
 // multiset in C++ STL
 // unordered_map in C++ STL
+// map in C++ STL
+// unordered_multimap in C++ STL
 

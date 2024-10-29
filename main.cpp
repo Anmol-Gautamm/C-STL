@@ -14,4 +14,5 @@
 // list in C++ STL
 // next_permutation in STL
 // __builtin_popcount() in STL
-
+// sort() in C++ STL
+// min_element() in C++ STL

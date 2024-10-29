@@ -12,4 +12,6 @@
 // priority_queue in C++ STL
 // multimap in C++ STL
 // list in C++ STL
+// next_permutation in STL
+// __builtin_popcount() in STL
 

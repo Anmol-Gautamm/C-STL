@@ -41,5 +41,7 @@
 // int main()
 // {
 // //     print(); 
+// //    int s = sum(1, 2);
+// //    cout<<s<<endl;
 
 

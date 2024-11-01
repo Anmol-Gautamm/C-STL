@@ -43,5 +43,7 @@
 // //     print(); 
 // //    int s = sum(1, 2);
 // //    cout<<s<<endl;
+// // here voide function not returning anythinginside the funtion where as in the int sum  function returns the sum of the two number
+
 
 

@@ -57,4 +57,7 @@
 // pair
 // vector container
 // vector is dynamic in nature whereas array are of fied size in the nature of storing the data inside of it 
+#include <bits/stdc++.h>
+using namespace std;
+
 

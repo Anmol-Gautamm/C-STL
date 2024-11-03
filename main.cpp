@@ -76,6 +76,9 @@ void explainvector()
     vector<int> v;
     v.push_back(1);
     v.push_back(2);
+   v.emplace_back(4);
+    v.push_back(3);
+
 
 
 

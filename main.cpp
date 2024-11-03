@@ -71,6 +71,10 @@ void explainPair()
 }
 
 
+void explainvector()
+{
+    vector<int> v;
+
 
 
 

@@ -65,6 +65,11 @@ void explainPair()
     cout<<p.first<<" "<<p.second;
     pair<int,pair<int,int>> q= {1,{2,3}};
     cout<<q.first<<" "<<q.second.first<<" "<<q.second.second;
+    
+    pair<int ,int >arr[] ={{1,2},{3,4},{5,6},{7,8}};
+    cout<<arr[1].second;
+}
+
 
 
 

@@ -80,6 +80,9 @@ void explainvector()
     v.push_back(3);
 
     vector<pair<int,int>>vec;
+        // v.push_back({1,2});
+        v.emplace_back(1,2);
+
     
 
 

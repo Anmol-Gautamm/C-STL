@@ -94,6 +94,14 @@ void explainvector()
     v.emplace_back(1,2);
 
 
+    
+}
+
+void explainIterator(){
+// iterator is basically pointing to the memory for the iteration
+//     vector<int>::iterator it = m.begin();
+
+
 
     
 

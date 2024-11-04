@@ -90,6 +90,8 @@ void explainvector()
 
 
         // here 5 spaces fix of 20 but it can be dynamically allocated extended by the again push
+       // v2 is making copy of the v1 here in this
+    v.emplace_back(1,2);
 
 
 

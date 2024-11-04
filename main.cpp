@@ -83,6 +83,10 @@ void explainvector()
         // v.push_back({1,2});
         v.emplace_back(1,2);
 
+        vector<int> v(5,100);
+        // creatin 5 instances of 100,100,100,100,100
+
+
     
 
 

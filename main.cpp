@@ -85,6 +85,9 @@ void explainvector()
 
         vector<int> v(5,100);
         // creatin 5 instances of 100,100,100,100,100
+       vector<int> v1(5,20);
+        vector<int> v2(v1);
+
 
 
     

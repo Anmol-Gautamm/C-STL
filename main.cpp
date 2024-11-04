@@ -89,6 +89,9 @@ void explainvector()
         vector<int> v2(v1);
 
 
+        // here 5 spaces fix of 20 but it can be dynamically allocated extended by the again push
+
+
 
     
 

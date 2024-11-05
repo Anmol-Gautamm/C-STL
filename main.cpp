@@ -102,7 +102,10 @@ void explainIterator(){
 //     vector<int>::iterator it = m.begin();
 
 //     it++;
+
+      //     // here basically print the position somewhere like second postion of the element
     
+
 
 
 

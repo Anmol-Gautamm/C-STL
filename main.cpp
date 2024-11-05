@@ -103,8 +103,12 @@ void explainIterator(){
 
 //     it++;
 
+
       //     // here basically print the position somewhere like second postion of the element
     
+
+//     it = it +2;
+//     cout<<*it<<" ";
 
 
 

@@ -117,6 +117,12 @@ void explainIterator(){
 //     vector<int>::iterator it = m.rbegin();
 
 //     cout<< m.back() <<" ";
+      
+
+
+//     v.erase(v.begin()+1);
+
+
 
 
 

@@ -111,6 +111,9 @@ void explainIterator(){
 //     cout<<*it<<" ";
 //     // here it will print the 3rd position of the element
 
+//     vector<int>::iterator it = m.end();
+//     vector<int>::iterator it = m.rend();
+
 
 
 

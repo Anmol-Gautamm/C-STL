@@ -123,6 +123,11 @@ void explainIterator(){
 //     v.erase(v.begin()+1);
 
 
+//     // here it will remove the second element from the vector
+
+//     // v.erase(v.begin(),v.begin()+2);
+//     // here it will remove the first two element from the vector
+
 
 
 

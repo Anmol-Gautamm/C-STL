@@ -128,6 +128,10 @@ void explainIterator(){
 //     // v.erase(v.begin(),v.begin()+2);
 //     // here it will remove the first two element from the vector
 // // insert
+      //     v.insert(v.begin()+1,3);
+//     // here it will insert 3 at the 2nd position of the vector
+
+
 
 
 

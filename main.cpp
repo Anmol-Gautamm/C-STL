@@ -131,6 +131,9 @@ void explainIterator(){
       //     v.insert(v.begin()+1,3);
 //     // here it will insert 3 at the 2nd position of the vector
 
+//     v.insert(v.end(),3);
+//     // here it will insert 3 at the end of the vector
+
 
 
 

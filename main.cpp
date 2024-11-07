@@ -127,6 +127,9 @@ void explainIterator(){
 
 //     // v.erase(v.begin(),v.begin()+2);
 //     // here it will remove the first two element from the vector
+// // insert
+
+
 
 
 

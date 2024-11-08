@@ -137,6 +137,9 @@ void explainIterator(){
 
 //     // v.insert(v.begin(),{1,2,3});
 //     // here it will insert 1,2,3 at the start of the vector
+      //     // v.insert(v.begin(),{1,2,3});
+//     // here it will insert 1,2,3 at the start of the vector
+
 
 
 

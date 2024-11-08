@@ -143,6 +143,9 @@ void explainIterator(){
 //     // here it will insert 1,2,3 at the 2nd position of the vector
 //     v.size
 //     // here it will return the size of the vector
+      //     v.pop
+//     // here it will remove the last element from the vector
+
 
 
 

@@ -141,6 +141,8 @@ void explainIterator(){
 //     // here it will insert 1,2,3 at the start of the vector
 //     // v.insert(v.begin()+1,{1,2,3});
 //     // here it will insert 1,2,3 at the 2nd position of the vector
+//     v.size
+//     // here it will return the size of the vector
 
 
 

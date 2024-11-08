@@ -145,6 +145,9 @@ void explainIterator(){
 //     // here it will return the size of the vector
       //     v.pop
 //     // here it will remove the last element from the vector
+      //     v.clear
+//     // here it will remove all the element from the vector
+
 
 
 

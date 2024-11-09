@@ -153,6 +153,21 @@ void explainIterator(){
 
           // v.shrink_to_fit
     // here it will reduce the capacity of the vector to the size of the vector
+      
+
+
+
+
+
+
+
+
+
+     
+}
+
+void explainstack(){
+
 
 
 

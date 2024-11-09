@@ -148,7 +148,10 @@ void explainIterator(){
       //     v.clear
 //     // here it will remove all the element from the vector
 
+//     v.resize
+    // here it will resize the vector to the specified size
 
+      
 
 
 

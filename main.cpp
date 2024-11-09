@@ -151,10 +151,8 @@ void explainIterator(){
 //     v.resize
     // here it will resize the vector to the specified size
 
-      
-
-
-
+          // v.shrink_to_fit
+    // here it will reduce the capacity of the vector to the size of the vector
 
 
 

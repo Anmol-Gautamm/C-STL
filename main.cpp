@@ -168,6 +168,8 @@ void explainIterator(){
 
 void explainstack(){
 
+   stack<int> st;
+    st.push(1);
 
 
 

@@ -177,10 +177,8 @@ void explainstack(){
     st.pop();
     cout<<st.top()<<" ";
     st.push(4);
-
-
-    
-
+    cout<<st.top()<<" ";
+    st.pop();
 
 
 

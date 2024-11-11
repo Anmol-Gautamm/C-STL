@@ -184,6 +184,10 @@ void explainstack(){
     // st.swap(st2);
     // here it will swap the stack with the other stack
 
+    cout<<st.empty();
+    // here it will check the empty of the stack
+
+
 
 
 

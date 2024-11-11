@@ -181,6 +181,8 @@ void explainstack(){
     st.pop();
  cout<<st.empty()<<endl;
     cout<<st.size()<<endl;
+    // st.swap(st2);
+    // here it will swap the stack with the other stack
 
 
 

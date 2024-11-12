@@ -189,6 +189,8 @@ void explainstack(){
 
     cout<<st.size();
     // here it will check the size and the empty of the stack
+    // cout<<st.top;
+    // here it will print the top element of the stack
 
 
 

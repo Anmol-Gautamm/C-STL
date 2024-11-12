@@ -197,6 +197,8 @@ void explainstack(){
 // works on the concept of FIFO
 void explainQueue(){
 
+    queue<int> q;
+    q.push(1);
 
 
 

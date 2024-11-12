@@ -193,6 +193,10 @@ void explainstack(){
     // here it will print the top element of the stack
 
 
+}
+// works on the concept of FIFO
+void explainQueue(){
+
 
 
 

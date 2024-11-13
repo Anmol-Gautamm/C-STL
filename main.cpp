@@ -206,6 +206,8 @@ void explainQueue(){
 
     cout<<q.front()<<" ";
     q.push(4);
+    cout<<q.front()<<" ";
+    q.pop();
 
 
 

@@ -221,5 +221,7 @@ cout<<q.back()<<endl;
 
 }
 // works on the concept of FIFO
+void explainQueue(){
+    queue<int> q;
 
 

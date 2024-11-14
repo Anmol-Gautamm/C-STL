@@ -219,4 +219,7 @@ cout<<q.back()<<endl;
 // works on the concept of FIFO
 
 
+}
+// works on the concept of FIFO
+
 

@@ -229,5 +229,12 @@ void explainQueue(){
     cout<<q.front()<<" ";
  cout<<q.size()<<endl;
     // q.swap(q2);
+   // here it will swap the queue with the other queue
+
+
+
+    
+}
+
 
 

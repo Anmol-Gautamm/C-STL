@@ -236,5 +236,7 @@ void explainQueue(){
     
 }
 
+void explainPriorityQueue(){
+    priority_queue<int> pq;
 
 

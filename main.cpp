@@ -243,4 +243,7 @@ void explainPriorityQueue(){
 
     pq.push(3);
     cout<<pq.top()<<" ";
+    pq.pop();
+    cout<<pq.top()<<" ";
+
 

@@ -247,5 +247,6 @@ void explainPriorityQueue(){
     cout<<pq.top()<<" ";
     pq.push(4);
     cout<<pq.top()<<" ";
-
+    pq.pop();
+// here in pq basically all the operation works from the top pop 
 

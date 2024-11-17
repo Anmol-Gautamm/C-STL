@@ -253,3 +253,6 @@ void explainSet(){
     // it stores elmt int he sorted order and stores the unique value each time
 
 
+    set<int> s;
+    s.insert(1);
+

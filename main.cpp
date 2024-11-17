@@ -248,5 +248,6 @@ void explainPriorityQueue(){
     pq.push(4);
     cout<<pq.top()<<" ";
     pq.pop();
-// here in pq basically all the operation works from the top pop 
+// here in pq basically all the operation works from the top pop push and pqq.top perform then the largest elmt will be going to  pop out from the queue
+
 

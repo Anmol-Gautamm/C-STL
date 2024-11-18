@@ -1,6 +1,6 @@
 // unordered_set in C++ STL
 // Vector in C++ STL
-// Set in C++ ST
+// Set in C++ STL
 // unordered_multiset in C++ STL
 // multiset in C++ STL
 // unordered_map in C++ STL

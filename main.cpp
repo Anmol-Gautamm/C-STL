@@ -275,6 +275,8 @@ void explainSet(){
 
 
 }
+void multiSet(){
+// there can be duplicate values in the set
 
 
 

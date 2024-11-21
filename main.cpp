@@ -277,6 +277,9 @@ void explainSet(){
 }
 void multiSet(){
 // there can be duplicate values in the set
+         set<int> s1 = {1,2,3};
+    set<int> s2 = {3,4,5};
+
 
 
 

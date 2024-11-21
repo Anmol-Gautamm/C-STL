@@ -261,4 +261,8 @@ void explainSet(){
     s.insert(4);
 
 
+    auto it = s.find(3);
+    if(it!= s.end()){
+
+
 
